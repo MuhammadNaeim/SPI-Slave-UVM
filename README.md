@@ -1,4 +1,4 @@
-# 📡 SPI Slave FSM with Assertions
+# 📡 SPI Slave UVM Environment
 
 ![SPI Slave UVM Environment](uvm_env.png)
 
